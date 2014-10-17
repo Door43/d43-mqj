@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[mqj:home|Door43 (mqj)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-mqj|d43-mqj repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-mqj/archive/master.zip|d43-mqj.zip]]
+
+**Recent Changes**
+{{changes>ns = mqj}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/mqj|Ethnologue data]]
+
